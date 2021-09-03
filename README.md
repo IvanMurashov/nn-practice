@@ -1,3 +1,4 @@
+[Русский 👈](./README_ru.md)
 # nn-practice
 This project is meant to be a practical test of my knowledge of classical neural networks. It is implemented using NumPy. A notable highlight of this implementation is that this model supports vector activation functions that output values that are dependent on all inputs simultaneously (e.g. Softmax).
 
